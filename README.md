@@ -12,3 +12,6 @@ Provides a user interface to query Bike Share data across 3 cities
 
 ### Credits
 Udacity, GitHub, https://github.com/udacity/pdsnd_github 
+
+###Transcribed by
+Solomon Dunn

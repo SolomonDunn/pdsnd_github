@@ -1,3 +1,5 @@
+#This python program interfaces with a user to return data from csv files 
+
 import time
 import pandas as pd
 import numpy as np
