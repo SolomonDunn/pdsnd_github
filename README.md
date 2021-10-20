@@ -17,7 +17,7 @@ Provides a user interface to query Bike Share data across 3 cities
 'chicago.csv', 'new_york_city.csv', 'washington.csv' 
 
 ### Credits
-Udacity, GitHub, https://github.com/udacity/pdsnd_github 
+Udacity, https://docs.python.org/, GitHub, https://github.com/udacity/pdsnd_github 
 
-###Transcribed by
+###Developed by
 Solomon Dunn
